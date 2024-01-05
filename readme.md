@@ -9,5 +9,8 @@
 ## Bài 8: Chuyển đổi số trong Chính phủ và Dịch vụ công
 ## Bài 9: Chuyển đổi số trong Chăm sóc sức khỏe và Y học
 ## Bài 10: An ninh mạng và quyền riêng tư dữ liệu 
+- Hiểu các rủi ro và mối đe dọa an ninh mạng
+- Bảo vệ tài sản kỹ thuật số và dữ liệu khách hàng
+- Tuân thủ các quy định về bảo mật dữ liệu
 ## Bài 11: Công dân số và những vấn đề về đạo đức trong môi trường số
 ## Bài 12: Xu hướng số và công nghệ mới
